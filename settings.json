@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "KlasseSmp-E2UX.aternos.me:39888",
+    "ip": "KlasseSmp-E2UX.aternos.me",
     "port": 39888,
     "version": "",
     "try-creative": false
